@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.dlt/
+currency_conversion/target/
+currency_conversion/logs/
